@@ -47,7 +47,7 @@ HTML5
 
 CSS3
 
-JavaScript (ES6+)
+JavaScript 
 
 Fontes Google Fonts (Press Start 2P)
 
